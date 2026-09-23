@@ -39,7 +39,11 @@ If you encounter technical difficulties installing the software, you can instead
     -   [Your Textbook](https://www.statlearning.com/) (Section 3.6 Lab: Linear Regression)
 
 ### Session 3
-*Coming Soon*
+-   [Slides](r_intro_part3.pdf) (A2 and linear regression continued)
+-   Code
+    -   [Chapter 3 & 4 labs](https://www.statlearning.com/resources-second-edition) from your textbook
+-   Reading list
+    -   [Your Textbook](https://www.statlearning.com/) (Section 3.6 Lab: Linear Regression & Section 4.7 Lab: Classification Methods)
 
 ### Session 4
 *Coming Soon*
